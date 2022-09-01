@@ -1,1 +1,1 @@
-this is another readme
+Display the current list of your current directory
